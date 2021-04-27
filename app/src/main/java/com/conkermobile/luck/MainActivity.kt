@@ -78,6 +78,7 @@ class MainActivity : AppCompatActivity() {
                     makeVisible(winner2)
                     makeInvisible(tie, winner)
                 }
+
             }
         }
     }
